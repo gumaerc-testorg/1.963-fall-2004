@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains introduction for creating and editing shapefiles in
   ArcGIS.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/9a58e73bfa42ead3c347ac18c8fe1243_lab2_1.pdf
+file: /media/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/9a58e73bfa42ead3c347ac18c8fe1243_lab2_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab2_1.pdf
 uid: 9a58e73b-fa42-ead3-c347-ac18c8fe1243
