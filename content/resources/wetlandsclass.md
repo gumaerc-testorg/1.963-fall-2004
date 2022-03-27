@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 29791215-8f1d-0326-356a-82872cab7c83
 resourcetype: Document
 title: wetlandsclass.pdf
 uid: 42851871-0e6c-e5ec-ab7c-379a83657f7a

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1fe1ff38-3315-cc50-1ea5-05f8a45b7d8c
 resourcetype: Document
 title: vectorprocessing.pdf
 uid: 5c2b8883-db35-14f8-74bd-72e3f3cb8df9
