@@ -5,6 +5,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1_2.pdf
 uid: e8ae12cd-2154-d1b7-e928-27e53226582e
 ---
 This file contains details related to introduction of ArcGIS.
-

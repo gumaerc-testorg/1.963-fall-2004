@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab7_1.pdf
 uid: 9818b032-4622-06b8-aaa0-3078f8ab520d
 ---
 This file contains instruction for starting ArcGIS and adding data to the map and other details.
-

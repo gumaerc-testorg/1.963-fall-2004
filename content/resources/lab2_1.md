@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab2_1.pdf
 uid: 9a58e73b-fa42-ead3-c347-ac18c8fe1243
 ---
 This file contains introduction for creating and editing shapefiles in ArcGIS.
-

@@ -5,6 +5,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vectorprocessing.pdf
 uid: 5c2b8883-db35-14f8-74bd-72e3f3cb8df9
 ---
 This file contains lecture on vector processing in a GIS.
-

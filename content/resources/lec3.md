@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec3.pdf
 uid: a016f0c3-e022-4af8-c17e-37a1fccfbdfb
 ---
 This file contains lecture on a brief history of cartography, sample maps and ArcGIS layout exercise.
-

@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab6_1.pdf
 uid: 9645b6c9-3e8f-71e4-59cf-c81b4040f5b7
 ---
 This file contains lab exercise as homeassignment for stock hydrology tools in ArcGIS.
-

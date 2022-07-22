@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab5_1.pdf
 uid: 7c7bf90b-c8c1-83e8-1425-749dfec30f11
 ---
 This file contains continuation of introduction to use the spatial analyst extension and toolbarwith the help of images.
-

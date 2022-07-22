@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab4_1.pdf
 uid: 44446db2-2fc1-8042-8fab-49d946311fd4
 ---
 This file contains introduction and instructions changing the projection in ArcMAP or projecting a map on the fly with the help of images.
-

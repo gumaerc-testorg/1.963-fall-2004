@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3_2howto.pdf
 uid: de1a86e2-96d8-25a1-b8a2-7d795af5c325
 ---
 This file contains introduction and images to discuss using of arcpad handhelds with GPS cards.
-

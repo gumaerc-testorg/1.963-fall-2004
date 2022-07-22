@@ -6,6 +6,7 @@ file: /courses/1-963-environmental-engineering-applications-of-geographic-inform
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lab3_1.pdf
 uid: 5283bd22-d7dd-1960-1ccc-a08469f6b166
 ---
 This file contains introduction, items to hand inand other details related to MAP layout.
-
