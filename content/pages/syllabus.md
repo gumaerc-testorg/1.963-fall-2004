@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains information on course description, instructor,
+  schedule, requirements and the grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 91c803b3-deea-e5ad-886a-c49e8845ec49
 ---
