@@ -10,16 +10,16 @@ uid: 29791215-8f1d-0326-356a-82872cab7c83
 
 Wetlands and Deepwater Habitats Classification ({{% resource_link 42851871-0e6c-e5ec-ab7c-379a83657f7a "PDF" %}})
 
-[USGS Geography Projects](https://web.archive.org/web/20051229055916/http://geography.usgs.gov/)
+{{% resource_link "5564f42b-7931-48bf-b6e1-deba677c1fe6" "USGS Geography Projects" %}}
 
-[USGS GIS Poster](http://erg.usgs.gov/isb/pubs/gis_poster/)
+{{% resource_link "34ce0385-9445-4c6e-9a7f-137c09861d8b" "USGS GIS Poster" %}}
 
-[Wetlands Map Creation and Codes](https://hub.arcgis.com/datasets/fws::nwi-wetland-codes)
+{{% resource_link "7320ac38-e478-4697-8597-6f3227929919" "Wetlands Map Creation and Codes" %}}
 
-[GIS Application: Natural Resource Management](http://www.gis.com/content/natural-resources)
+{{% resource_link "5f3abe74-a0ff-40b3-8c26-adfb53a8bd87" "GIS Application: Natural Resource Management" %}}
 
-[GIS Lab at MIT](http://libguides.mit.edu/content.php?pid=347508&sid=2844932libraries.mit.edu/gis/data/)
+{{% resource_link "cd95b2b5-2c6a-4352-8cda-c6a1e6874985" "GIS Lab at MIT" %}}
 
-[U.S. Spatial Data Sites](http://libguides.mit.edu/c.php?g=176295&p=1161385)
+{{% resource_link "4f14cbcd-942f-433e-b9cb-1aaa3563f1e7" "U.S. Spatial Data Sites" %}}
 
-[USDA NRCS NCG Image Server](http://photogallery.nrcs.usda.gov/)
+{{% resource_link "8f4ea477-fd25-4af4-b0ae-c64428954cb1" "USDA NRCS NCG Image Server" %}}
