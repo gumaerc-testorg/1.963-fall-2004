@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains lecture on vector processing in a GIS.
 file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/5c2b8883db3514f874bd72e3f3cb8df9_vectorprocessing.pdf
+file_size: 99076
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
