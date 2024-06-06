@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains lecture on map projection.
 file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/857b36d03416b12230aabe05c48e0b07_lec5.pdf
+file_size: 2119378
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

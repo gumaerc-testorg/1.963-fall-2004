@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains introduction and instructions changing the projection
   in ArcMAP or projecting a map on the fly with the help of images.
 file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/44446db22fc180428fab49d946311fd4_lab4_1.pdf
+file_size: 276590
 file_type: application/pdf
 learning_resource_types:
 - Labs
