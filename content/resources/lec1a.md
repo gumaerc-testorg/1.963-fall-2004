@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture.
 file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/b5170077900a9bc1bea4d3c1012c6137_lec1a.pdf
+file_size: 1402094
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

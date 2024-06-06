@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains introduction and images to discuss using of arcpad
   handhelds with GPS cards.
 file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/de1a86e296d825a1b8a27d795af5c325_lab3_2howto.pdf
+file_size: 366722
 file_type: application/pdf
 learning_resource_types:
 - Labs
