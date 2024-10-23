@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains lecture on definition and related aspects of GIS.
-file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/1ab3aa3b42c865ba58d810a0f72736ba_lec1.pdf
+file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/1ab3aa3b42c865ba58d810a0f72736ba_lec1.pdf
 file_size: 606130
 file_type: application/pdf
 learning_resource_types:

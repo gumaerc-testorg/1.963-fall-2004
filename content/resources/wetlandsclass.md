@@ -2,7 +2,7 @@
 content_type: resource
 description: This file deals with detail classification of wetlands and deepwater
   habitata according to class and sub class.
-file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/428518710e6ce5ecab7c379a83657f7a_wetlandsclass.pdf
+file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/428518710e6ce5ecab7c379a83657f7a_wetlandsclass.pdf
 file_size: 62178
 file_type: application/pdf
 learning_resource_types: []
