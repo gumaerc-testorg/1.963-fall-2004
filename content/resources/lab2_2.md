@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains introduction and other details with the help of slides
   for spatial data.
-file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/68e2bb83bd66763ee9c813692121a565_lab2_2.pdf
+file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/68e2bb83bd66763ee9c813692121a565_lab2_2.pdf
 file_size: 445701
 file_type: application/pdf
 learning_resource_types:
