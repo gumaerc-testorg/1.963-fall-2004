@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains instruction for starting ArcGIS and adding data to
   the map and other details.
-file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/9818b032462206b8aaa03078f8ab520d_lab7_1.pdf
+file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/9818b032462206b8aaa03078f8ab520d_lab7_1.pdf
 file_size: 538007
 file_type: application/pdf
 learning_resource_types:
