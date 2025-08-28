@@ -12,8 +12,6 @@ Wetlands and Deepwater Habitats Classification ({{% resource_link "42851871-0e6c
 
 [USGS Geography Projects](https://web.archive.org/web/20051229055916/http://geography.usgs.gov/)
 
-[USGS GIS Poster](http://erg.usgs.gov/isb/pubs/gis_poster/)
-
 [Wetlands Map Creation and Codes](https://hub.arcgis.com/datasets/fws::nwi-wetland-codes)
 
 [GIS Application: Natural Resource Management](http://www.gis.com/content/natural-resources)
