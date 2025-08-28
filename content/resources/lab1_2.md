@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This file contains details related to introduction of ArcGIS.
-file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/e8ae12cd2154d1b7e92827e53226582e_lab1_2.pdf
+file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/e8ae12cd2154d1b7e92827e53226582e_lab1_2.pdf
 file_size: 758277
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

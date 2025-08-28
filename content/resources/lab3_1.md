@@ -2,11 +2,11 @@
 content_type: resource
 description: This file contains introduction, items to hand inand other details related
   to MAP layout.
-file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/5283bd22d7dd19601ccca08469f6b166_lab3_1.pdf
+file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/5283bd22d7dd19601ccca08469f6b166_lab3_1.pdf
 file_size: 1032919
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
