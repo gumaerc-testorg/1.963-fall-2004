@@ -2,11 +2,11 @@
 content_type: resource
 description: This file contains lab instructionin the form of data and aim for GIS
   applications in environmental engineering.
-file: /courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/63c7dc1283e044b17beda76dda8dff80_lab1_1.pdf
+file: /ol-ocw-studio-app/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/63c7dc1283e044b17beda76dda8dff80_lab1_1.pdf
 file_size: 17543
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
